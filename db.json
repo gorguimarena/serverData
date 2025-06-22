@@ -5,43 +5,10 @@
       "nom": "Admin Principal",
       "email": "admin@dahira.com",
       "password": "admin123",
-      "diwaneId": null,
+      "diwaneId": 3,
       "role": "admin",
       "createdAt": "2024-01-01T00:00:00.000Z",
       "lastLogin": "2024-12-20T10:00:00.000Z",
-      "isActive": true
-    },
-    {
-      "id": "2",
-      "nom": "Mouhamed Ba",
-      "email": "mouhamed@dahira.com",
-      "password": "gerant123",
-      "diwaneId": 1,
-      "role": "gerant",
-      "createdAt": "2024-01-02T00:00:00.000Z",
-      "lastLogin": "2024-12-20T09:30:00.000Z",
-      "isActive": true
-    },
-    {
-      "id": "3",
-      "nom": "Fatou Ndiaye",
-      "email": "fatou@dahira.com",
-      "password": "gerant123",
-      "diwaneId": 2,
-      "role": "gerant",
-      "createdAt": "2024-01-03T00:00:00.000Z",
-      "lastLogin": "2024-12-20T08:45:00.000Z",
-      "isActive": true
-    },
-    {
-      "id": "4",
-      "nom": "Cheikh Sy",
-      "email": "cheikh@dahira.com",
-      "password": "gerant123",
-      "diwaneId": 3,
-      "role": "gerant",
-      "createdAt": "2024-01-04T00:00:00.000Z",
-      "lastLogin": "2024-12-19T16:20:00.000Z",
       "isActive": true
     }
   ],
