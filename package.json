@@ -1,0 +1,16 @@
+{
+  "name": "json-server-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Fake API avec json-server",
+  "main": "db.json",
+  "scripts": {
+    "start": "json-server db.json --port $PORT",   
+    "dev": "json-server db.json --port 3000"      
+  },
+  "author": "TonNom",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
